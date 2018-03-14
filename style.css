@@ -43,6 +43,7 @@ h1{
 .btn-primary {
 	background-color: #AA7839;
 	border-color: #552F00;
+	text-align: center;
 	}
 
 .btn-primary:hover {
